@@ -1,2 +1,2 @@
 # RoboColorizmo
-Arduino code and Python computer vision script
+Arduino code to control the robotic arm and Python computer vision cube detection script
